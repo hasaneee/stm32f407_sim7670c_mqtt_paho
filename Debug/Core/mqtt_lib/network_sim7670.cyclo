@@ -1,0 +1,17 @@
+../Core/mqtt_lib/network_sim7670.c:21:6:MilliTimer_Handler	1
+../Core/mqtt_lib/network_sim7670.c:30:6:TimerInit	1
+../Core/mqtt_lib/network_sim7670.c:39:6:TimerIsExpired	1
+../Core/mqtt_lib/network_sim7670.c:50:6:TimerCountdownMS	1
+../Core/mqtt_lib/network_sim7670.c:60:6:TimerCountdown	1
+../Core/mqtt_lib/network_sim7670.c:69:5:TimerLeftMS	1
+../Core/mqtt_lib/network_sim7670.c:81:6:NetworkInit	1
+../Core/mqtt_lib/network_sim7670.c:97:5:ConnectNetwork	4
+../Core/mqtt_lib/network_sim7670.c:137:5:SIM_NetworkWrite	2
+../Core/mqtt_lib/network_sim7670.c:147:5:SIM_NetworkRead	2
+../Core/mqtt_lib/network_sim7670.c:157:5:SIM_SendCommand	5
+../Core/mqtt_lib/network_sim7670.c:189:5:Network_Init	5
+../Core/mqtt_lib/network_sim7670.c:220:5:MQTT_Connect	3
+../Core/mqtt_lib/network_sim7670.c:247:5:MQTT_Publish	3
+../Core/mqtt_lib/network_sim7670.c:270:5:GetIPAddress	3
+../Core/mqtt_lib/network_sim7670.c:303:6:SIM_PowerOn	1
+../Core/mqtt_lib/network_sim7670.c:313:6:SIM_Reset	1

@@ -1,0 +1,17 @@
+../Core/mqtt_lib/network_sim7670.c:21:6:MilliTimer_Handler	4	static
+../Core/mqtt_lib/network_sim7670.c:30:6:TimerInit	16	static
+../Core/mqtt_lib/network_sim7670.c:39:6:TimerIsExpired	24	static
+../Core/mqtt_lib/network_sim7670.c:50:6:TimerCountdownMS	16	static
+../Core/mqtt_lib/network_sim7670.c:60:6:TimerCountdown	16	static
+../Core/mqtt_lib/network_sim7670.c:69:5:TimerLeftMS	24	static
+../Core/mqtt_lib/network_sim7670.c:81:6:NetworkInit	16	static
+../Core/mqtt_lib/network_sim7670.c:97:5:ConnectNetwork	816	static
+../Core/mqtt_lib/network_sim7670.c:137:5:SIM_NetworkWrite	32	static
+../Core/mqtt_lib/network_sim7670.c:147:5:SIM_NetworkRead	32	static
+../Core/mqtt_lib/network_sim7670.c:157:5:SIM_SendCommand	304	static
+../Core/mqtt_lib/network_sim7670.c:189:5:Network_Init	8	static
+../Core/mqtt_lib/network_sim7670.c:220:5:MQTT_Connect	528	static
+../Core/mqtt_lib/network_sim7670.c:247:5:MQTT_Publish	544	static
+../Core/mqtt_lib/network_sim7670.c:270:5:GetIPAddress	288	static
+../Core/mqtt_lib/network_sim7670.c:303:6:SIM_PowerOn	8	static
+../Core/mqtt_lib/network_sim7670.c:313:6:SIM_Reset	8	static
